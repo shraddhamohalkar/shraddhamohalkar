@@ -1,4 +1,3 @@
-
 # Hi, I'm Shraddha! 👋
 
 ### Aspiring Cloud DevOps Engineer 
