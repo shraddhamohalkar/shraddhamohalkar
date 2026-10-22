@@ -61,12 +61,6 @@ Hello! I'm **Shraddha Mohalkar** 👋
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" />
-</div>
-
----
-
-<div align="center">
 
 ###  "Learn. Build. Automate. Deploy."
 
