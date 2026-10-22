@@ -69,8 +69,8 @@ Hello! I'm **Shraddha Mohalkar** 👋
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
-<a href="https://mail.google.com/mail/?view=cm&to=shraddhamohalkar2003@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+<a href="mailto:shraddhamohalkar2003@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
 </a>
 
 </div>
