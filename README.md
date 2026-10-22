@@ -66,19 +66,9 @@ I'm an aspiring **Cloud DevOps Engineer**, interested in cloud computing, infras
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/Java-Basic-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Basics"/>
+<img src="https://img.shields.io/badge/Java-Basic-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-
-</div>
-
-### 🗄️ Database
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-
-</div>
 
 ---
 
@@ -86,7 +76,7 @@ I'm an aspiring **Cloud DevOps Engineer**, interested in cloud computing, infras
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=shraddhamohalkar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
 
 <br/>
 
@@ -130,7 +120,7 @@ I'm an aspiring **Cloud DevOps Engineer**, interested in cloud computing, infras
 
 ### 💙 "Learn. Build. Automate. Deploy."
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&color=007CF0\&style=for-the-badge\&label=PROFILE+VIEWS)
+
 
 **Thank you for visiting my profile!** ✨
 
