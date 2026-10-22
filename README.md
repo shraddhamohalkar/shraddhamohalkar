@@ -104,11 +104,17 @@ I'm an aspiring **Cloud DevOps Engineer**, interested in cloud computing, infras
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/shraddhamohalkar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=Email&logoColor=white" alt="Email"/>
+</a>
+
+<div align="center">
+
+<a href="https://github.com/shraddhamohalkar">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="YOUR_LINKEDIN_PROFILE_URL">
+<a href="www.linkedin.com/in/shraddha-mohalkar-0948b1266L">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
