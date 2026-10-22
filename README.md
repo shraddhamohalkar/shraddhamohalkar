@@ -10,65 +10,43 @@
 
 ## 👩‍💻 About Me
 
-Hi, I'm **Shraddha Mohalkar** 
+Hello! I'm **Shraddha Mohalkar** 👋
 
-I'm an aspiring **Cloud DevOps Engineer**, interested in cloud computing, infrastructure management, and automation.
+🚀 Aspiring Cloud DevOps Engineer building my foundation in cloud computing and automation.
 
-* ☁️ Cloud Platform: AWS
-* 🐧 Operating Systems: Linux & Ubuntu
-* 🐳 Containerization: Docker
-* ☸️ Container Orchestration: Kubernetes
-* ⚙️ Infrastructure as Code: Terraform
-* 🔄 Version Control: Git & GitHub
-* 🔧 CI/CD: Jenkins
-* 🗄️ Database: MySQL
-* 💻 Fundamentals: Java, HTML & CSS
+📚 Committed to continuous learning and hands-on practice.
 
-🎯 Focused on developing technical skills and applying them to real-world Cloud and DevOps environments.
+🎯 Working towards creating efficient and reliable technology solutions.
+
+🌟 Always ready to learn something new!
 
 ---
 
-## 🛠️ Tech Stack
 
-### ☁️ Cloud Platform
+## 🚀 Technologies & Tools
 
-<div align="left">
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-<a href="https://aws.amazon.com/">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-</a>
 
-</div>
 
-### 🐧 Operating Systems
 
-<div align="left">
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
 
-</div>
 
-### ⚙️ DevOps & Automation
 
-<div align="left">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-
-</div>
-
-### 💻 Languages & Web Technologies
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/Java-Basic-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 
 ---
 
