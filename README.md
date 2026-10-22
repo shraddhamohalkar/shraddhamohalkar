@@ -100,23 +100,15 @@ I'm an aspiring **Cloud DevOps Engineer**, interested in cloud computing, infras
 
 ---
 
-## 🌐 Connect With Me
+🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://github.com/shraddhamohalkar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=Email&logoColor=white" alt="Email"/>
-</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a>
 
-<div align="center">
+<a href="YOUR_LINKEDIN_PROFILE_URL"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a>
 
-<a href="https://github.com/shraddhamohalkar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="www.linkedin.com/in/shraddha-mohalkar-0948b1266L">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<a href="mailto:YOUR_EMAIL_ADDRESS"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a>
 
 </div>
 
