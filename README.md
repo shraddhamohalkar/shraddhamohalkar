@@ -10,7 +10,7 @@
 
 ## 👩‍💻 About Me
 
-Hi, I'm **Shraddha Mohalkar** from India 🇮🇳.
+Hi, I'm **Shraddha Mohalkar** 
 
 I'm an aspiring **Cloud DevOps Engineer**, interested in cloud computing, infrastructure management, and automation.
 
