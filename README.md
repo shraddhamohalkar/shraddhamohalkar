@@ -76,27 +76,20 @@ I'm an aspiring **Cloud DevOps Engineer**, interested in cloud computing, infras
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=shraddhamohalkar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
 
-<br/>
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shraddhamohalkar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<br/>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shraddhamohalkar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 
 </div>
 
----
-
-## 📈 Contribution Activity
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shraddhamohalkar&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
+<img height="150" src="https://streak-stats.demolab.com/?user=shraddhamohalkar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
+
 
 ---
 
