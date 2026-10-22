@@ -80,11 +80,11 @@ I'm an aspiring **Cloud DevOps Engineer**, interested in cloud computing, infras
 
 <br/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shraddhamohalkar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 <br/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=shraddhamohalkar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -94,7 +94,7 @@ I'm an aspiring **Cloud DevOps Engineer**, interested in cloud computing, infras
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shraddhamohalkar&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph"/>
 
 </div>
 
@@ -104,15 +104,15 @@ I'm an aspiring **Cloud DevOps Engineer**, interested in cloud computing, infras
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/shraddhamohalkar">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 &nbsp;&nbsp;
-<a href="YOUR_LINKEDIN_PROFILE_URL">
+<a href="www.linkedin.com/in/shraddha-mohalkar-0948b1266">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL_ADDRESS">
+<a href="mailto:shraddhamohalkar2003@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
@@ -122,7 +122,7 @@ I'm an aspiring **Cloud DevOps Engineer**, interested in cloud computing, infras
 
 <div align="center">
 
-### 💙 "Learn. Build. Automate. Deploy."
+###  "Learn. Build. Automate. Deploy."
 
 
 
