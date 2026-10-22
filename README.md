@@ -36,16 +36,6 @@ Hello! I'm **Shraddha Mohalkar** 👋
 | 🗄️ **Database**               | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />                                                                                                          |
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=shraddhamohalkar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shraddhamohalkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
-
-</div>
-
 ## 🔥 Contribution Streak
 
 <div align="center">
@@ -53,7 +43,6 @@ Hello! I'm **Shraddha Mohalkar** 👋
 <img height="150" src="https://streak-stats.demolab.com/?user=shraddhamohalkar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
 
 ---
 
