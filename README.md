@@ -47,19 +47,16 @@ Hello! I'm **Shraddha Mohalkar** 👋
 ---
 
 ## 🤝 Connect With Me
+<div align="center">
+<a href="https://www.linkedin.com/in/shraddha-mohalkar-0948b1266/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shraddhamohalkar2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+<a href="https://github.com/shraddhamohalkar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</div>
 
-<p align="center">
-  <a href="https://shraddhamohalkar2003@gmail.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/shraddha-mohalkar-0948b1266/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://github.com/shraddhamohalkar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=6" />
 </div>
 
 ---
