@@ -1,73 +1,105 @@
-# Hi, I'm Shraddha! 👋
+<div align="center">
+  
+# Hi, i am shraddha! 👋
 
-### Aspiring Cloud DevOps Engineer 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Developer+Advocate;DevOps+%26+Platform+Engineering;8%2B+Years+Experience;Cloud+Architecture+Expert)](https://git.io/typing-svg)
 
-Welcome to my GitHub profile! I'm building my skills in Cloud Computing and DevOps, with a focus on learning modern tools and technologies used to automate, deploy, and manage applications.
-
-## 👩‍💻 About Me
-
-* 🌱 Currently learning Cloud & DevOps.
-* ☁️ Exploring AWS cloud services and cloud infrastructure.
-* 🐧 Learning Linux and shell commands.
-* 🐳 Practicing Docker and containerization.
-* 🔧 Learning Git and GitHub for version control.
-* ☸️ Exploring Kubernetes and container orchestration.
-* 🎯 Working on hands-on projects to strengthen my technical skills.
-* 📚 Interested in cloud infrastructure, automation, and CI/CD pipelines.
-
-## 🛠️ Technologies I'm Learning
-
-* **Cloud:** Amazon Web Services (AWS)
-* **Operating Systems:** Linux
-* **Version Control:** Git, GitHub
-* **Containers:** Docker
-* **Container Orchestration:** Kubernetes
-* **Build Tools:** Maven
-* **Automation:** CI/CD fundamentals
-* **Scripting:** Shell scripting fundamentals
-
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazonaws&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-OS-black?style=flat&logo=linux&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=flat&logo=docker&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-Version_Control-red?style=flat&logo=git&logoColor=white)
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=flat&logo=kubernetes&logoColor=white)
-
-![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red?style=flat&logo=jenkins&logoColor=white)
-
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=flat&logo=terraform&logoColor=white)
-
-## 🚀 Projects
-
-I am building hands-on projects to apply my learning and gain practical experience.
-
-* AWS Infrastructure and EC2 Practice
-* Docker Image Management and Containerization
-* Git and GitHub Version Control
-* Kubernetes Deployments and Services
-* AWS VPC and Networking
-* Cloud-Based Application Deployment
-
-*Project repositories and documentation will be added as I progress.*
-
-## 📈 My Learning Goals
-
-* Develop strong AWS and Linux fundamentals.
-* Gain practical experience with Docker and Kubernetes.
-* Understand CI/CD pipelines and automation.
-* Build and document real-world Cloud DevOps projects.
-* Continuously improve my technical and problem-solving skills.
-
-## 🤝 Let's Connect
-
-I'm always interested in learning, collaborating, and connecting with people in the Cloud and DevOps community.
-
-* **LinkedIn:** www.linkedin.com/in/shraddha-mohalkar-0948b1266
-* **Email:** shraddhamohalkar2003@gmail.com
+</div>
 
 ---
 
-⭐ Thank you for visiting my profile!
+## 🚀 About Me
+
+I'm a **Developer Advocate** & **Educator @TrainWithShubham** specializing in **Development, DevOps, and Platform Engineering** from 🇮🇳 India, with **8+ years** of professional experience in both onsite and remote environments. I'm passionate about building **production-ready applications** and scalable cloud infrastructure.
+
+- 🔭 Currently working on **cloud-native solutions**, **Artificial Intelligence solutions** and **DevOps/Platform engineering**
+- 🌱 Always learning about **emerging technologies** and **best practices**
+- 👯 Looking to collaborate on **open-source projects** and **DevOps initiatives**
+- 💬 Ask me about **Python, Cloud Architecture, DevOps, and Platform Engineering**
+- ⚡ Fun fact: I love sharing knowledge through **training and mentoring**
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages & Frameworks**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+</p>
+
+### **Cloud & DevOps**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+</p>
+
+### **Databases & Monitoring**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LondheShubham153&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LondheShubham153&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LondheShubham153&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400">
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LondheShubham153&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies">
+</div>
+
+---
+
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LondheShubham153&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+[![Website](https://img.shields.io/badge/Website-trainwithshubham.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.trainwithshubham.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamlondhe1996/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shubhamlondhe96/)
+[![Email](https://img.shields.io/badge/Email-trainwithshubham@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trainwithshubham@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 "Building the future, one deployment at a time" 
+
+![Profile Views](https://komarev.com/ghpvc/?username=LondheShubham153&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/LondheShubham153?label=Follow&style=social)](https://github.com/LondheShubham153)
+
+</div>
