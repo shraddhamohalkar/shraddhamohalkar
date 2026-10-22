@@ -1,5 +1,18 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Cloud+DevOps+Engineer;AWS+Cloud+%26+Infrastructure;Docker+%7C+Kubernetes+%7C+Terraform;Automating+Cloud+Infrastructure)](https://git.io/typing-svg)
+# Hello, World! 🌎
+
+## I'm Shraddha Mohalkar 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=23\&duration=2500\&pause=800\&color=00BFFF\&center=true\&vCenter=true\&width=650\&lines=Cloud+DevOps+Engineer;AWS+%7C+Linux+%7C+Docker;Kubernetes+%7C+Terraform+%7C+Jenkins;Turning+Infrastructure+into+Code)](https://git.io/typing-svg)
+
+<img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Containers-Docker-blue?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/IaC-Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+
+**Building skills. Creating projects. Automating infrastructure.** 🚀
 
 </div>
+
+---
