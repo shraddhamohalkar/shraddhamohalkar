@@ -53,9 +53,7 @@ Hello! I'm **Shraddha Mohalkar** 👋
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
- <a href="https://www.linkedin.com/in/shraddha-mohalkar-0948b1266/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
-</a>
+ <a href="https://www.linkedin.com/in/shraddha-mohalkar-0948b1266/" target="_blank">LinkedIn</a>
   &nbsp;&nbsp;
   <a href="https://github.com/shraddhamohalkar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
