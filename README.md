@@ -34,6 +34,8 @@ Hello! I'm **Shraddha Mohalkar** 👋
 | 🔄 **CI/CD**                   | <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />                                                                                                      |
 | 🔧 **Version Control**         | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />     |
 | 🗄️ **Database**               | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />                                                                                                          |
+| 📊 **Monitoring** | <img src="https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" /> |
+
 ---
 
 ## 🔥 Contribution Streak
@@ -50,7 +52,10 @@ Hello! I'm **Shraddha Mohalkar** 👋
 <div align="center">
 <a href="https://www.linkedin.com/in/shraddha-mohalkar-0948b1266/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/shraddhamohalkar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:shraddhamohalkar2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+<a href="https://mail.google.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
 </div>
 
 ---
