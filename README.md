@@ -38,16 +38,6 @@ Hello! I'm **Shraddha Mohalkar** 👋
 
 ---
 
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img height="150" src="https://streak-stats.demolab.com/?user=shraddhamohalkar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 <div align="center">
 <a href="https://www.linkedin.com/in/shraddha-mohalkar-0948b1266/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
